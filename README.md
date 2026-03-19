@@ -10,10 +10,19 @@ https://github.com/Harsh-Chauhan14/SQL-Sports-Project/blob/main/SQL%20Project%20
 https://github.com/Harsh-Chauhan14/SQL-Sports-Project/blob/main/SPORT%20SQL%20PROJECT.sql
 
 # Key Analysis Covered
-	∙	 Unique teams in the tournament
-	∙	 Win, loss & draw percentages per team
-	∙	 Top scoring & lowest scoring teams
-	∙	 Expected goals vs actual goals analysis
-	∙	 Player usage and average age per group
-	∙	 Fouls, offsides & minutes per group
-	∙	 GROUP BY aggregations with JOIN across two tables
+		 Unique teams in the tournament
+		 Win, loss & draw percentages per team
+		 Top scoring & lowest scoring teams
+		 Expected goals vs actual goals analysis
+		 Player usage and average age per group
+		 Fouls, offsides & minutes per group
+	     GROUP BY aggregations with JOIN across two tables
+
+
+# Insights
+
+   Goals & Performance
+   Wins & Losses
+   Player Stats
+   Fouls & Discipline
+   GROUP Level Trends
